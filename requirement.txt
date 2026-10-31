@@ -1,0 +1,13 @@
+go mod init commitment-stake
+go get -u github.com/gin-gonic/gin
+go get -u gorm.io/gorm
+go get -u gorm.io/driver/mysql
+go get -u github.com/joho/godotenv
+
+commitment-stake/
+├── config/
+│   └── database.go
+├── .env
+├── main.go
+├── go.mod
+└── go.sum
