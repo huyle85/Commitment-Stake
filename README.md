@@ -18,3 +18,4 @@ Tech Stack
 - Blockchain: Solidity (Smart Contracts), Web3/RPC Integration
 
 - Database: MYSQL (Off-chain indexing and user metadata).
+UNIHACK
